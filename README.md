@@ -14,7 +14,11 @@ You can download this repository, and upload .zip file in Plugin Installer
 
 # TO DO Tasks
 initialize web route on wp /webapp
+
 listing wp wc categories as Tab
+
 listing wp wc products per Tab
+
 design product card (title + excerpt + regular price + price + add_to_cart)
+
 automaticly register/login user with Telegram (first_name , last_name , tg_id)
